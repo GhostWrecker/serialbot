@@ -1,1 +1,1 @@
-worker: python3 SERIALAUTO.py
+worker: python SERIALAUTO.py
